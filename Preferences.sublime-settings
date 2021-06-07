@@ -1,0 +1,42 @@
+{
+	"always_show_minimap_viewport": true,
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"node_modules/**",
+		"bower_components/**",
+		"vendor/**",
+		".git/**"
+	],
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Theme - Gravity/Monokai Gravity.sublime-color-scheme",
+	"font_size": 14,
+	"gravity_tab_height_short": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"index_files": false,
+	"open_files_in_new_window": false,
+	"overlay_scroll_bars": "enabled",
+	"tab_size": 4,
+	"theme": "Gravity.sublime-theme",
+	"word_wrap": false
+}
